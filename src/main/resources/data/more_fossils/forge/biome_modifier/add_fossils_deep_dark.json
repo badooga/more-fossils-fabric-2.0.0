@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#more_fossils:fossil_deep_dark",
+  "features": "more_fossils:fossil_deep_dark",
+  "step": "underground_structures"
+}
